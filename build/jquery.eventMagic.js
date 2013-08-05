@@ -1,4 +1,4 @@
-/* jQuery Event Magic v0.0.1
+/* jQuery Event Magic v0.0.2
  * Copyright (c) 2013, Frank Förster (http://frankfoerster.com)
  * Licensed under the MIT License
  */
