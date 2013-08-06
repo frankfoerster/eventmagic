@@ -1,5 +1,5 @@
 /*!
- * jQuery Event Magic v0.0.2
+ * jQuery Event Magic v0.0.3
  * https://github.com/frankfoerster/eventmagic
  *
  * Copyright (c) 2013, Frank Förster (http://frankfoerster.com)
